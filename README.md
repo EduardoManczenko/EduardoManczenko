@@ -1,5 +1,4 @@
 <p align="center">
-  <br><br>
   <h2>🤖🚀👾 Hello! let's build something together? 👾🚀🤖</h2>
   <br>
   <i>I am a skilled developer with experience in solving problems in the universe. I am always seeking new challenges and opportunities to create solutions.</i>
