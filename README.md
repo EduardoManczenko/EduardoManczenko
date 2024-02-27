@@ -14,7 +14,7 @@
 - Blockchain
 - Solidity
 - Ethers.js 
-- Typescript
+- Javascript
 - Hardhat
 - Next.js
 - Nest.js
