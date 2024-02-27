@@ -22,10 +22,14 @@
 
 <h3>👨‍💻 Main Ethereum Request for Comments (ERCs) 👨‍💻</h3>
 
-- ERC20
-- ERC721
-- ERC1155
-- ERC404
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/ERC-20-yellow" height="28" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/ERC-721-orange" height="28" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/ERC-1155-red" height="28" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/ERC-404-purple" height="28" alt="typescript logo" />
+</div>
+
+
 
 
 <h3>📊 GitHub Statistics 📊</h3>
