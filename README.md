@@ -30,7 +30,7 @@
 
 <h3>📊 GitHub Statistics 📊</h3>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduardoManczenko&show_icons=true&theme=vision-friendly-dark)<br>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduardoManczenko&show_icons=true&theme=vision-friendly-dark)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoManczenko&layout=compact&theme=vision-friendly-dark)
 
 <h3>📫 How to contact me 📫</h3>
