@@ -10,11 +10,20 @@
 <h3>🔧 Technologies and tools 🔧</h3>
 
 - Blockchain
-- ethers 
-- Solidity 
-- Rust 
-- Web3 
+- Solidity
+- Ethers.js 
 - Typescript
+- Hardhat
+- Next.js
+- Nest.js
+- Express.js
+
+<h3>👨‍💻 Main Ethereum Request for Comments (ERCs) 👨‍💻</h3>
+
+- ERC20
+- ERC721
+- ERC1155
+- ERC404
 
 
 <h3>📊 GitHub Statistics 📊</h3>
