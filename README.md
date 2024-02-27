@@ -4,7 +4,7 @@
   <i>I am a skilled developer with experience in solving problems in the universe. I am always seeking new challenges and opportunities to create solutions.</i>
   <br><br>
   <div align="center">
-  <img src="https://github.com/EduardoManczenko/EduardoManczenko/blob/main/images/ether-reach-the-ether.gif" width="180px">
+  <img src="https://github.com/EduardoManczenko/EduardoManczenko/blob/main/images/ether-reach-the-ether.gif" width="230px">
   </div>
   <br>
 </p>
