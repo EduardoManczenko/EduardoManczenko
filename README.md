@@ -3,7 +3,7 @@
   <br>
   <i>I am a skilled developer with experience in solving problems in the universe. I am always seeking new challenges and opportunities to create solutions.</i>
   <br><br>
-  <div style="display: flex;">
+  <div align="center">
   <img src="https://github.com/EduardoManczenko/EduardoManczenko/blob/main/images/ether-reach-the-ether.gif" width="180px">
   </div>
   <br>
