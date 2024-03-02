@@ -51,8 +51,9 @@
 
 <h2>📊 GitHub Statistics 📊</h2>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduardoManczenko&show_icons=true&theme=vision-friendly-dark)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoManczenko&layout=compact&theme=vision-friendly-dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduardoManczenko&show_icons=true&theme=vision-friendly-dark\&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoManczenko&layout=donut&theme=vision-friendly-dark" width="317">
+
 
 <h2>📫 How to contact me 📫</h2>
 
