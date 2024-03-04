@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=ffffff&vCenter=true&width=1000&lines=%F0%9F%A4%96%F0%9F%9A%80%F0%9F%91%BE%20Hello!%20let%27s%20build%20something%20together?%20%F0%9F%91%BE%F0%9F%9A%80%F0%9F%A4%96)](https://git.io/typing-svg)
 <p align="center">
   <br>
-  <i>I am a skilled developer with experience in solving problems in the universe. I am always seeking new challenges and opportunities to create solutions.</i>
+  <i>I am a developer with experience in solving problems in the universe. I am always seeking new challenges and opportunities to create solutions.</i>
   <br><br>
   <div align="center">
   <img src="https://github.com/EduardoManczenko/EduardoManczenko/blob/main/images/ether-reach-the-ether.gif" width="230px">
