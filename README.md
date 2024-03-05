@@ -64,7 +64,7 @@
 
 <h2>📊 GitHub Statistics 📊</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EduardoManczenko&show_icons=true&theme=vision-friendly-dark&rank_icon=github" >
+<img src="https://github-readme-stats.vercel.app/api?username=EduardoManczenko&show_icons=true&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoManczenko&layout=donut&theme=vision-friendly-dark" width="317.5">
 </div>
 
