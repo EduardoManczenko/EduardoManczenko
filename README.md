@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="tailwind css logo"  />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" height="30" alt="eslint logo"  />
 </div>
-
 <br>
 <h2>👨‍💻 Main Ethereum Request for Comments (ERCs) 👨‍💻</h2>
 <br>
