@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/ERC-20-yellow" height="32" alt="typescript logo" />
   <img src="https://img.shields.io/badge/ERC-721-orange" height="32" alt="typescript logo" />
   <img src="https://img.shields.io/badge/ERC-1155-purple" height="32" alt="typescript logo" />
- 
 </div>
 <br>
 
