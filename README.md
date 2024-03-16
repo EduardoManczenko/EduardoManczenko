@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/ERC-1155-purple" height="32" alt="typescript logo" />
 </div>
 <br>
-
 <h2>📊 GitHub Statistics 📊</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EduardoManczenko&show_icons=true&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true" >
