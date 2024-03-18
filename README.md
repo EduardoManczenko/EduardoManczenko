@@ -58,7 +58,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=EduardoManczenko&show_icons=true&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoManczenko&layout=donut&theme=vision-friendly-dark" width="317.5">
 </div>
-
 <h2>📫 How to contact me 📫</h2>
   <a href="https://www.linkedin.com/in/eduardo-manczenko/" target="_blank"  ><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
   <a href = "mailto:eduardo.manczenko@gmail.com" ><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
