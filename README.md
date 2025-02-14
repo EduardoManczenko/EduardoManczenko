@@ -45,14 +45,6 @@
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" height="30" alt="eslint logo"  />
 </div>
 <br>
-<h2>👨‍💻 Ethereum Request for Comments (ERCs) 👨‍💻</h2>
-<br>
-<div style="display: flex">
-  <img src="https://img.shields.io/badge/ERC-20-yellow" height="32" alt="typescript logo" />
-  <img src="https://img.shields.io/badge/ERC-721-orange" height="32" alt="typescript logo" />
-  <img src="https://img.shields.io/badge/ERC-1155-purple" height="32" alt="typescript logo" />
-</div>
-<br>
 <h2>📊 GitHub Statistics 📊</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EduardoManczenko&show_icons=true&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true">
