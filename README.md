@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" height="30" alt="eslint logo"  />
 </div>
 <br>
-<h2>👨‍💻 Main Ethereum Request for Comments (ERCs) 👨‍💻</h2>
+<h2>👨‍💻 Ethereum Request for Comments (ERCs) 👨‍💻</h2>
 <br>
 <div style="display: flex">
   <img src="https://img.shields.io/badge/ERC-20-yellow" height="32" alt="typescript logo" />
